@@ -3,7 +3,7 @@
 using namespace std;
 class stack
 {
-    // Properties
+    // Properties Written by Avinash Tiwari
  public:
     int *arr;
     int top;
